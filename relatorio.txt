@@ -1,0 +1,21 @@
+*** Relatório da Biblioteca ***
+
+Total de Livros Cadastrados: 2
+Livros Disponíveis: 2
+Livros Emprestados: 0
+Gênero mais frequente: 4
+
+LISTA COMPLETA DOS LIVROS:
+
+Código: 3
+Título: 3
+Autor: 4
+Gênero: 4
+Ano: 5
+Status: Disponível
+Código: 1
+Título: O Pequeno Princípe
+Autor: não identificado
+Gênero: fantasia
+Ano: 2007
+Status: Disponível
